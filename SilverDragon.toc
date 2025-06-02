@@ -1,4 +1,4 @@
-﻿## Interface: 20200
+﻿## Interface: 11200
 ## Title: SilverDragon |cff7fff7f -Ace2-|r
 ## Notes: Remember where rares were updated by Miv
 ## Version: 1.0
